@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My Name is Martin Crothers.
+
+I am an `Infrastructure Monitoring and Automation Engineer`, specializing in the SolarWinds Platform (aka "Orion"), and integrations with [DDI through Infoblox](https://www.infoblox.com/glossary/ddi/), and [ITAM through Device42](https://www.device42.com/features/it-asset-management/).
+
+
 <!--
 **martincrothers/martincrothers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
