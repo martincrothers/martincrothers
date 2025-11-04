@@ -4,7 +4,7 @@ My name is Martin.
 
 I am an **Infrastructure Monitoring and Automation Engineer**, specializing in the SolarWinds Platform (aka "Orion") for on-prem and hybrid environments. I have experience deploying greenfield, integrating with other systems (such as: [DDI through Infoblox](https://www.infoblox.com/glossary/ddi/), and [ITAM through Device42](https://www.device42.com/features/it-asset-management/)), and the full care-and-feeding stack of day-to-day operations of the Infrastructure Monitoring Environment.
 
-## A Little About Me:<hr>
+## A Little About Me:
 
 ### Education
 **Degree:** Associate in Applied Science: Computer Information Systems, Information Technologies for Homeland Security
