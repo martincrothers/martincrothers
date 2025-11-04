@@ -26,8 +26,8 @@ I am an **Infrastructure Monitoring and Automation Engineer**, specializing in t
 
 ### Certifications: Current
 
-| Authority    | Certification                              | ID/Number   | Date Issued |
-|----------------|------------------------------------------------------------------------|--------------|-----------|
+| Authority        | Certification                                                            | ID/Number      | Date Issued |
+|------------------|--------------------------------------------------------------------------|----------------|-------------|
 | Python Institute | PCEP (Certified Entry-Level Python Programmer)                           | r4ra.KEfL.ga0A | 2024-10-05  |
 | SolarWinds       | SCP NPM (SolarWinds Certified Professional, Network Performance Monitor) | NPM3818        | 2024-09-20  |
 
