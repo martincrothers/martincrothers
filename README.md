@@ -7,12 +7,15 @@ I am an **Infrastructure Monitoring and Automation Engineer**, specializing in t
 ## A Little About Me:
 
 ### Education
-**Degree:** Associate in Applied Science: Computer Information Systems, Information Technologies for Homeland Security
-<br/>**From:** Oakland Community College | Auburn Hills, MI
-<br/>**When:** December 2015
-<br/>**Honors:** Magna Cum Laude
+
+**Degree:** Associate in Applied Science: Computer Information Systems, Information Technologies for Homeland Security<br/>
+**From:** Oakland Community College | Auburn Hills, MI<br/>
+**When:** December 2015<br/>
+**Honors:** Magna Cum Laude
+
 
 ### Certifications: Preparing
+
 (Planning to complete these certifications in November/December 2025)
 - Pyton Institue: Certified Associate Python Programmer (PCAP)
 - Solarwinds Certified Professional (SCP): SolarWinds Observability Self-Hosted Fundamentals
@@ -20,14 +23,26 @@ I am an **Infrastructure Monitoring and Automation Engineer**, specializing in t
 - Solarwinds Certified Professional (SCP): SolarWinds Observability Architecture and Design
 - Solarwinds Certified Professional (SCP): Server and Application Monitor (SAM)
 
+
 ### Certifications: Current
 
-|    Authority    |                               Certification                              |    ID/Number   | Date Issued |
+| Authority    | Certification                              | ID/Number   | Date Issued |
 |----------------|------------------------------------------------------------------------|--------------|-----------|
 | Python Institute | PCEP (Certified Entry-Level Python Programmer)                           | r4ra.KEfL.ga0A | 2024-10-05  |
 | SolarWinds       | SCP NPM (SolarWinds Certified Professional, Network Performance Monitor) | NPM3818        | 2024-09-20  |
 
+
 ### Certifications: Previous
+
+| Authority  | Certification                                                  | ID/Number        | Date Issued |
+|------------|----------------------------------------------------------------|------------------|-------------|
+| Cisco      | CCENT                                                          | CSCO1254160      | 2015-02-03  |
+| Cisco      | CCNA (Cisco Certified Network Associate Routing and Switching) | CSCO1254160      | 2016-04-15  |
+| Cisco      | CCNA Security                                                  | CSCO1254160      | 2016-04-17  |
+| EC-Council | CEH (Certified Ethical Hacker)                                 | ECC19805294048   | 2016-09-09  |
+| CompTIA    | Security+                                                      | COMP001006362719 | 2016-10-25  |
+
+
 <!--
 <div>
     <style type="text/css">
