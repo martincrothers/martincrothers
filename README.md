@@ -22,10 +22,65 @@ I am an **Infrastructure Monitoring and Automation Engineer**, specializing in t
 
 ### Certifications
 
-|     Authority    |                               Certification                              |    ID/Number   | Date Issued |
+|:    Authority    |                               Certification                              |    ID/Number   | Date Issued |
 |:----------------:|:------------------------------------------------------------------------:|:--------------:|:-----------:|
 | Python Institute | PCEP (Certified Entry-Level Python Programmer)                           | r4ra.KEfL.ga0A | 2024-10-05  |
 | SolarWinds       | SCP NPM (SolarWinds Certified Professional, Network Performance Monitor) | NPM3818        | 2024-09-20  |
+
+<div>
+    <style type="text/css">
+        .tg  {border-collapse:collapse;border-spacing:0;}
+        .tg td{
+            border-color:black;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            padding:10px 5px;
+            word-break:normal;
+        }
+        .tg th{
+            border-color:black;
+            border-style:solid;
+            border-width:1px;
+            font-weight:bold;
+            overflow:hidden;
+            padding:10px 5px;
+            word-break:normal;
+        }
+        .tg .tg-head{
+            border-color:inherit;
+            text-align:center;
+            vertical-align:top
+        }
+        .tg .tg-body{
+            border-color:inherit;
+            text-align:left;
+            vertical-align:top
+        }
+    </style>
+        <table class="tg"><thead>
+        <tr>
+            <th class="tg-head">Authority</th>
+            <th class="tg-head">Certification</th>
+            <th class="tg-head">ID/Number</th>
+            <th class="tg-head">Date Issued</th>
+        </tr></thead>
+        <tbody>
+        <tr>
+            <td class="tg-body">Python Institute</td>
+            <td class="tg-body">PCEP (Certified Entry-Level Python Programmer)</td>
+            <td class="tg-body">r4ra.KEfL.ga0A</td>
+            <td class="tg-body">2024-10-05</td>
+        </tr>
+        <tr>
+            <td class="tg-body">SolarWinds</td>
+            <td class="tg-body">SCP NPM (SolarWinds Certified Professional, Network Performance Monitor)</td>
+            <td class="tg-body">NPM3818</td>
+            <td class="tg-body">2024-09-20</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
 
 <!--
 **martincrothers/martincrothers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
